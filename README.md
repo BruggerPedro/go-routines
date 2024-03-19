@@ -1,5 +1,8 @@
 # Go Routines and Channels
 
+![image](https://github.com/BruggerPedro/go-routines/assets/65832126/e647dee9-02c6-4e24-ba57-749f2fe05edd)
+
+
 Goroutines are lightweight functions that can run concurrently with other functions in Go. They are the foundation of concurrent programming in Go, allowing you to execute multiple tasks simultaneously without the need for heavy threads.
 
 
